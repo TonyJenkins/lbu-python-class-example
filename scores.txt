@@ -1,0 +1,6 @@
+Tom,12
+Harry,14
+Jane,16
+Anne,8
+Bill,4
+Alice,20
